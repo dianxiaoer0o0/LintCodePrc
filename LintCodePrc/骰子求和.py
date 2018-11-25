@@ -63,3 +63,4 @@ for x in a.unName(3):
 print [sum(y for y in x) for x in a.unName(3)]
 print a.iPossibilitys(12,2)
 print a.dicesSum(7)
+
